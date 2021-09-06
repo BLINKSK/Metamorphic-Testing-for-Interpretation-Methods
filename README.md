@@ -1,7 +1,7 @@
 # Metamorphic-Testing-for-Interpretation-Methods
 This is the repository for the paper "One Step Further: Evaluating Interpretation Methods Using Metamorphic Testing" submitted to ICSE 2022.  
-The systematical evaluation and metamorphic testing for interpretation methods are implemented here.
-**Constuction**
+The systematical evaluation and metamorphic testing for interpretation methods are implemented here.  
+## Constuction
 Folder "interpretation_methods" shows seven methods for metamorphic testing. Interpretation methods except LIME are realized by using TorchRay, available at https://github.com/facebookresearch/TorchRay. We realize LIME by its own individual implementation at https://github.com/marcotcr/lime.  
-![metamorphic_result-w100](https://github.com/BLINKSK/Metamorphic-Testing-for-Interpretation-Methods/blob/main/metamorphic_technologies/metamorphic_result.png)  
-![](https://github.com/BLINKSK/Metamorphic-Testing-for-Interpretation-Methods/blob/main/metamorphic_technologies/delete_object/examples/000000000885.jpg)
+![metamorphic_result-w50](https://github.com/BLINKSK/Metamorphic-Testing-for-Interpretation-Methods/blob/main/metamorphic_technologies/metamorphic_result.png)  
+![000000000885-w30](https://github.com/BLINKSK/Metamorphic-Testing-for-Interpretation-Methods/blob/main/metamorphic_technologies/delete_object/examples/000000000885.jpg)
