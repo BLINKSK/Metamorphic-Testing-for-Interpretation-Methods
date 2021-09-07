@@ -19,4 +19,4 @@ We use [deepfill v2](https://github.com/JiahuiYu/generative_inpainting) to perfo
 <img src=https://github.com/BLINKSK/Metamorphic-Testing-for-Interpretation-Methods/blob/main/metamorphic_technologies/delete_object/examples/mask_i%20o.png width="30%">
 <img src=https://github.com/BLINKSK/Metamorphic-Testing-for-Interpretation-Methods/blob/main/metamorphic_technologies/delete_object/examples/inpainting.png width="30%">  
 ## Pretrained models
-"Models" published in releases contains pre-trained normal model, backdoor model and models used in inserting the object, deleting the object (image inpainting).  
+"Models" published in releases contains pre-trained normal model, backdoor model, and models used in inserting the object, deleting the object (image inpainting).  
