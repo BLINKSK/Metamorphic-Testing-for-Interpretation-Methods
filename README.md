@@ -8,7 +8,7 @@ Folder "backdoor" shows the strategy of training a backdoor model by updating ex
 <br>
 Folder "interpretation_methods" shows seven methods for metamorphic testing. Interpretation methods except LIME are realized by using [TorchRay](https://github.com/facebookresearch/TorchRay). We realize [LIME](https://github.com/marcotcr/lime) by its own individual implementation. Each code is used to evaluate interpratation results of original images and metamorphic images.  
 <br>
-Folder"metamorphic_technologies" shows three technologies to generate metamorphic images. [preproess_val.py](https://github.com/BLINKSK/Metamorphic-Testing-for-Interpretation-Methods/blob/main/metamorphic_technologies/insert_object/scripts/preproess_val.py) can realize main process of inserting object.  
+Folder"metamorphic_technologies" shows three technologies to generate metamorphic images. To generate diverse and natural-looking sets of images as inputs of metamorphic testing, we use [MetaOD](https://arxiv.org/pdf/1912.12162.pdf), a streamlined workflow that performs object extraction, object refinement/selection, and object insertion to synthesize metamorphic images in an efficient and adaptive manner. Code [preproess_val.py](https://github.com/BLINKSK/Metamorphic-Testing-for-Interpretation-Methods/blob/main/metamorphic_technologies/insert_object/scripts/preproess_val.py) can realize main process of inserting object, whose object extraction module use [YOLACT] (https://github.com/dbolya/yolact) to realize.  
 <br>
 <img src=https://github.com/BLINKSK/Metamorphic-Testing-for-Interpretation-Methods/blob/main/metamorphic_technologies/metamorphic_result.png width="60%">  
 <br>
