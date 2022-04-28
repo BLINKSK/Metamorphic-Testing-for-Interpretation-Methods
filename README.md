@@ -21,4 +21,4 @@ We use [deepfill v2](https://github.com/JiahuiYu/generative_inpainting) to perfo
 ## Pretrained models
 "Models" published in releases contains pre-trained normal model, backdoor model, and models used in inserting the object, deleting the object (image inpainting).  
 ## Results
-The experimental results are massive, and we first put some results images of our paper on the folder "results". After that, we will download the experimental data from the server and upload them to Google Drive. We will release the Google Drive URL after uploading.
+The experimental results are massive, and we first put some results images of our paper on the folder "results". More results can be found in [Google Drive](https://drive.google.com/drive/folders/1e1A1wNxLuzhEf7bczSiqveV1oeWJL-j2?usp=sharing).
