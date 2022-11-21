@@ -1,6 +1,6 @@
 # Metamorphic-Testing-for-Interpretation-Methods
 This is the repository for the paper "One Step Further: Evaluating Interpreters Using Metamorphic Testing" submitted to ISSTA 2022. The systematical evaluation and metamorphic testing for interpretation methods are implemented here.  
-## Constuction
+## Construction
 All original images used in our experiment are from the [COCO2017](https://cocodataset.org/#overview) dataset. The official provides a large number of data annotations and API interfaces to process images.  
 Folder "backdoor" shows the strategy of training a backdoor model by updating the existing model incrementally. The training process is realized in [backdoor_retrain.py](https://github.com/BLINKSK/Metamorphic-Testing-for-Interpretation-Methods/blob/main/backdoor/backdoor_retrain.py).  
 <br>
